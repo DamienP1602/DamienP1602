@@ -1,7 +1,9 @@
 # Hi there 👋
-My name is Damien Puechlong, a French Junior Gameplay Programmer wanting to create all sorts of games !
+My name is Damien Puechlong, a French Junior Gameplay Programmer wanting to create all sorts of games!
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/damien-puechlong/))
+I am open to work and happy to discuss with anybody!
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damien-puechlong/)
 | Skills | Experiences |
 |-|-|
 |<img src=https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unreal-engine-white-icon.png height = 32>| Sunward - School Project |
@@ -10,22 +12,31 @@ My name is Damien Puechlong, a French Junior Gameplay Programmer wanting to crea
 |<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1920px-Logo_C_sharp.svg.png height = 32>| Learned from school |
 |<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/250px-Python-logo-notext.svg.png height = 32>| Learned from School |
 
-# Soft Skills
+# Soft Skills 🧑‍🦱
 - Team Management
 - Scrum
 - Flexible
 
-<!--
-**DamienP1602/DamienP1602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Projects 🪛
+## Sunward ☀️
+Sunward was my final year's school project.
 
-Here are some ideas to get you started:
+I was the Lead Programmer and I worked on: UIs, Saves and the Player Controller
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Here's the Steam Page : [![Link](Futur_Link)] -->
+
+## Cult of Hela ⚔️
+Cult of Hela is a personal project I worked on during my years of studies
+
+This game is a Diablo Like, where you can play a character and his abilities. You can upgrade its stats with gears and select which spells you want to play with.
+
+You can look at this project [![Here](https://github.com/DamienP1602/Cult_Of_Hela)] if you want to search and see what I've done in this project.
+
+## Hand of Elements 🎴
+Hand of Elements is a personal project I worked on during my final year of studies alongside my final project Sunward.
+
+This game is a turn based card game, inspired by games like Hearthstone or Magic the Gathering.
+
+You will be able to select a deck and play with your friends as it is a Multiplayer Game ! I used Unity Gaming Services to create session with a code that can connect two players from differents server.
+
+You can look at this project [![Here(https://github.com/DamienP1602/Hand_Of_Elements)] !
