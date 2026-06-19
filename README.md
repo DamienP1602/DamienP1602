@@ -25,18 +25,25 @@ I was the Lead Programmer and I worked on: UIs, Saves and the Player Controller
 
 <!-- Here's the Steam Page : [![Link](Futur_Link)] -->
 
-## Cult of Hela ⚔️
+## Cult of Hela ⚔️ (Demo)
 Cult of Hela is a personal project I worked on during my years of studies
 
 This game is a Diablo Like, where you can play a character and his abilities. You can upgrade its stats with gears and select which spells you want to play with.
 
 You can look at this project [![Here](https://github.com/DamienP1602/Cult_Of_Hela)] if you want to search and see what I've done in this project.
 
-## Hand of Elements 🎴
+## Project Card Game 🎴 (R&D)
+This project was made to explore and test some mechanics like Deck Building, Turn-based card game or how to create data for cards.
+
+In this project you can create your own deck with multiple archetypes and play against an AI with 4 difficulties (Tuto, Easy, Medium, Hard) that I created!
+
+You can look at this project [![Here](https://github.com/DamienP1602/ProjectCardGame)].
+
+## Hand of Elements 🎴 (WIP)
 Hand of Elements is a personal project I worked on during my final year of studies alongside my final project Sunward.
 
 This game is a turn based card game, inspired by games like Hearthstone or Magic the Gathering.
 
 You will be able to select a deck and play with your friends as it is a Multiplayer Game ! I used Unity Gaming Services to create session with a code that can connect two players from differents server.
 
-You can look at this project [![Here(https://github.com/DamienP1602/Hand_Of_Elements)] !
+You can look at this project [![Here](https://github.com/DamienP1602/Hand_Of_Elements)] !
