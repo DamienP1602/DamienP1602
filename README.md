@@ -4,7 +4,7 @@ My name is Damien Puechlong, a French Junior Gameplay Programmer wanting to crea
 I am open to work and happy to discuss with anybody!
 
 Here is my website if you want more information about my work : 
-<a href="https://damienp1602.github.io/Web/" target="_blank">Website</a>
+<a href="https://damienp1602.github.io" target="_blank">Website</a>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damien-puechlong/)
 | Skills | Experiences |
